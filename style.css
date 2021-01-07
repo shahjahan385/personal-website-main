@@ -1,0 +1,107 @@
+body{ margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.section1{
+    padding-top: 80px;
+    height: 550px;
+    padding-bottom: 10px;
+}
+.section2{
+    padding-top: 80px;
+    height: 550px;
+    padding-bottom: 10px;
+}
+h1{ 
+    font-size:60px;
+}
+
+h2{ 
+    font-size:40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.center{
+    padding-left: 25%;
+
+}
+.latest{
+    color: orangered;
+}
+.orange{color: #ff9900;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;}
+.bold{
+     color: rgb(2, 20, 73);
+}
+.para{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    padding: 10px 10px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: repeating-linear-gradient(60deg,rgb(84, 137, 236), rgb(124, 44, 230));
+    padding: 20px 45px;
+    border-radius: 10px;
+    font-weight: 800;
+    font-family:Arial, Helvetica, sans-serif ;
+    cursor: pointer;
+
+}
+
+.half-width img{
+    width: 100%;}
+    .para{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+         
+    }
+    .button{
+        image-resolution: 5px;
+ 
+    }
+
+    .section3{ 
+        background-color: whitesmoke;
+        padding-top: 80px;
+        height: 550px;
+        padding-bottom: 10px;
+    }
+    .one-third-project{
+        float: left;
+        width: 30%;
+        padding-left: 30PX;
+        padding-bottom: 10%;
+        box-shadow: 5px 5px 5px 5px rgb(192, 191, 191);
+        border-radius: 10px;
+        box-sizing: 10%;
+        background-color: white; 
+        margin-left: 1%;
+    }
+    .section4{
+        
+        padding-top: 80px;
+        height: 550px;
+        padding-bottom: 10px;
+    }
+    .work-image{
+        width:800px; 
+            height:200px; 
+            background-position: 100%; 
+            top: 10%; 
+            left: 10%; 
+            margin-top: 10%;
+            margin-left: 20%;
+    }
+    .container {
+        position: relative;
+      }
+      .chat{
+         font-variant-position: normal;
+          
+      }
+      
+   
